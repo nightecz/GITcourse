@@ -1,2 +1,2 @@
-<<<<<< HEAD
-Alex has a cat, dog and fish.
+this is a changed content of a fileA.txt
+
