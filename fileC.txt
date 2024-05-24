@@ -1,2 +1,2 @@
-dding functionality C.
+This is a content of a file C.
 
